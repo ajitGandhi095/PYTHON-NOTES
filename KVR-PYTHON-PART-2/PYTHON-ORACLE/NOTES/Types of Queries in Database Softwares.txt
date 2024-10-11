@@ -1,0 +1,14 @@
+		  ===============================================
+				Types of Queries in Database Softwares
+		===============================================
+=>In RDBMS Softwares, SQL Queries are classified into 3 Types. They are
+
+			1. DDL (Data Definiton Language)  Queries--create, alter, drop
+			2. DML(Data Manipulation Language) Queries--insert,update,delete 
+			3. DRL (Data Retrieval Language) Queries ----select
+--------------------------------------------------------------------------------------------------------------------------------
+Oracle Software Instalation 
+https://www.youtube.com/watch?v=wLGtKBwsK18&t=1162s
+
+MySQL Software Instalation
+https://youtu.be/mLQpd3hRD7g?si=Tm_FZ3JpCRUqNK9M

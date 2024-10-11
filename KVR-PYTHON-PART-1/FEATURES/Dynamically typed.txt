@@ -1,0 +1,54 @@
+			======================================================
+					3. Dynamically typed 
+			======================================================
+=>In IT, we have Two types of Programming Languages. They are
+
+			1. Static Typed Programming Languages.
+			2. Dynamic Typed Programming Languages.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Static Typed Programming Languages.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+=>In  Static Typed Programming Languages, It is Mandatory for the Programmer to Specify the Variable 
+    Declaration(Data Type + variables).
+=>The Limitation of  Static Typed Programming Languages are
+			1. The Programmer May not be able to select Suitable Data type
+			2. The Data Type we specify, It allows only that type of values not Dynamic other type of values.
+Code Examples
+-------------------------
+int a,b,c // Variable Declaration
+a=10
+b=20
+c=a+b
+---------------
+a=1.2------Error  bcoz 'a' is static typed as 'int'
+b="Java"---Error bcoz 'b' is static typed as 'int'
+----------------
+Examples:    C,C++,Java, C#.net...etc 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+2. Dynamic Typed Programming Languages.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+=>InDynamic Typed Programming Languages, The Programmer Need not to Specify the Variable Declaration.
+=>Internally, depends on type of value we are assigning to variable, Python Execution Environment Decides the type of 
+     value and whose memory space allocated automatically.
+--------------------------
+Code Examples
+--------------------------
+>>> a=10
+>>> b=20
+>>> c=a+b
+>>> print(a,type(a))-------------10 <class 'int'>
+>>> print(b,type(b))-------------20 <class 'int'>
+>>> print(c,type(c))-------------30 <class 'int'>
+-----------------------------
+>>> a=1.2
+>>> b=2.8
+>>> c=a+b
+>>> print(a,type(a))-------------1.2 <class 'float'>
+>>> print(b,type(b))------------2.8 <class 'float'>
+>>> print(c,type(c))------------4.0 <class 'float'>
+-----------------------
+>>> a="PYthon"
+>>> print(a,type(a))-------------PYthon <class 'str'>
+--------------------------------
+Examples:   PYTHON , Java Script
+----------------------------------------------------------------------------------------------------------------------------------------------------------

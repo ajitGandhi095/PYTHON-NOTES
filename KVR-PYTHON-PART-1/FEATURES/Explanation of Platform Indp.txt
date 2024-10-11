@@ -1,0 +1,47 @@
+
+--------------------------------------------------------
+C,C++ Programming Lang Env
+--------------------------------------------------------
+Data Type		DOS			UNIX
+---------------	-------------------		------------------
+int				2			4
+float				4			8
+double			8			16
+char				1			1
+All the Data Types of C,C++ are differring the Memory spaces from One OS to Another OS and Hence
+C,C++ lang are called Platform dependent Lang.
+--------------------------------------------------------
+Java Programming Lang Env
+--------------------------------------------------------
+	Data types		DOS		UNIX
+	----------------	---------------  ----------------
+		byte			1		1
+		short		2		2
+		int			4		4
+		long			8		8
+
+		float			4 with dp		4 with dp
+		double		8 with dp		8 with dp
+		char			2		2
+		boolean		----		----
+All the above Data Types are called Pre-Defined / Scalar / primitive / Core / Fundamental  and memory space of all the Java Data types Takes Same Memory Space and Hence Java is PLATFORM INDP Lang.
+    But the Limitation are
+						a) Java Pre-Defined Data Type Takes Restricted Memory space Values
+						                     (But Not Unlimited Value)
+						b) All Pre-Defined Data Types Takes Single Value only
+						                   (But Not Multiple Values)
+All Pre-Defined Data Types are Non-Object Approach---->Single Value + Memory Space Restriction
+-------------------------------------------------------------------
+=>In Java Programming	---->To Store  Multiple Values----Object Concept <------Class Concept			
+
+Java Objects are Storing Multiple Values and runs on Every OS---Java is PLATFORM INDP Lang
+    But Java Objects---Limitation
+                                       Java Objects are Size Restricted+ Memory Space Restriction
+
+=============================================================
+
+--------------------------------------------------------
+Python Programming Lang Env
+--------------------------------------------------------
+All Values are Stored in OBJECTS----- No Memory space Restriction and Size Restriction
+				 runs on all types of OSes---P I Lang

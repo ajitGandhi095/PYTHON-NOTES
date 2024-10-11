@@ -1,0 +1,24 @@
+			==================================================
+					5. Freeware and Open Source 
+			==================================================
+------------------
+Freeware
+------------------
+=>If any Language is said to be Freeware iff It is Downloaded Freely from Official Source
+=>here Python Programming Language is Freeware bcoz we can download Python Freely from www.python.org
+---------------------
+Open Source
+---------------------
+=>Open Source Softwares are those which allows the Software vendors to Customize the Original Software for 
+    developing In-House Tools.
+=>The Standard Name of Python Programming Language is "CPYTHON" provided by NON-Commercial Organization 
+     called Python Software Foundation(PSF)
+=>Many Software  Companies Came Forward and Customized Standard Python (CPYTHON) for developing In-house Tools and the customized Version of CPYTHON are called "Python Distributions".
+=>Some of the Python Distributions are
+
+			1. JPython OR Jython------>Used for Running Java Based Applications
+			2. Iron Python OR Ipython--->used for Running C#.net Based Applications
+			3. Micro Python---------------->Used for developing Micro Controller Applications
+			4. StackLess Python-------->Used to develop Concurrency Based Application
+			.......................etc
+===========================================================================================

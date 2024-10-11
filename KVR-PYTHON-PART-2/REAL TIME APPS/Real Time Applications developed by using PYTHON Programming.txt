@@ -1,0 +1,36 @@
+			===================================================================
+				Real Time Applications developed by using PYTHON Programming
+			===================================================================
+=>By using PYTHON programming Language and in Combination of Tools and Technologies, we develop the Following Applications.
+
+			1. Development of Web Applications(Web Sites)
+					a) Java Programming Lang------------->Tech: JDBC, Servlets,JSP,Spring,SpringBoot, Spring		(Sun Micro Sys-->Oracle corp)	  Micro Services
+						
+					b) C#.net Programming Lang---------->Tech:  ASP.net, ASP Micro Service....etc
+					     (Micro Soft INC USA)
+					c) PYTHON Programming Lang-------->Tech: Django,Flask,Bottle,Pyramid..etc
+							The Reason for making PYTHON is popular is bcoz of More MODULES
+							 Present in PYTHON Lang.
+					[ Learning Python is nothing but Learning about MODULES]
+			
+			2. Development of Gaming Application 
+			3. Development of Artificial Intelligence Applications
+							a) Machine Learning Applications (ML )
+							b) Deep Learning Applications (DL)
+			4. Development Image Processsing Applications.
+			5. Development of Audio and Video Based Applications
+			6. Development of Web Scrapping / Web Harvesting Applications.
+			7. Development of Business Applications ( Filpcart, Amazon,linkedin,
+			8. Development of Scientific Applications
+			9. Development Software Development --Project --ICICI, SBI, UB, Univ, School
+			10. Development of OS Installers
+			11. Development of Languages (Spark, Scala)
+			12. Development of Desktop GUI Application
+			13. Development of Data Analysis and Data Analytics
+			14. Development of Automation of Testing
+			15. Development of Complex Math Operations Such Statistics, Probability,Linear Algebra
+			16. Development of Console Based Applications
+			17. Development of Animation Based Applications
+			18. Development of CAD / CAM Based Applications
+			19. Development of IOT Applications
+			20. Development of Computer Vision..........etc

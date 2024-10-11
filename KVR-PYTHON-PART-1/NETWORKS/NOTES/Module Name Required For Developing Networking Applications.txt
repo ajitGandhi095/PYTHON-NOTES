@@ -1,0 +1,61 @@
+		=================================================================
+			Module Name Required For Developing Networking Applications
+		=================================================================
+=>For Developing Networking Applications in Python, we use a pre-defined module called "socket".
+---------------------------------------------------------------
+Functions in socket module
+---------------------------------------------------------------
+1. socket()
+---------------------------------------------------------------
+Syntax:   sockobj=socket.socket()
+=>This function is used for creating an object of socket either at client Side OR at server side.
+--------------
+Examples:     s=socket.socket()
+---------------------------------------------------------------
+2. bind()
+---------------------------------------------------------------
+=>Syntax:   socketobj.bind( ("DNS/IPAddress",portno) )
+=>This functino is used for binding the server side program with Certain DNS / IP Address and portno.
+=>Example   s.bind(("localhost",8888)
+					OR
+		      s.bind(("127.0.0.1",8888)
+---------------------------------------------------------------
+3. listen()
+---------------------------------------------------------------
+=>Syntax:   socketobj.listen(Numerical Integer Value)
+=>This function is used for Configuring  in such a way that to how many clients, Server Socket can  communicate.
+Examples:   s.listen(2)
+---------------------------------------------------------------
+4. accept()
+---------------------------------------------------------------
+=>Syntax:             Var1,Var2=socketobj.accept()
+=>This function is used for accepting Client Side Program Request.
+=>This function returns Client Sicket Object and Client Socket Address.
+=>Here Var1 contains Client Sicket Object  and Var2 contains Client Socket Address.
+------------
+Examples:                  clientsockobj,clientsockaddr =s.accept()
+----------------
+---------------------------------------------------------------
+5. recv() with decode()
+---------------------------------------------------------------
+=>Syntax:   bytedata=clientsocketobj.recv(1024 OR 2048 OR 4098.....)
+			strdata=bytesdata.decode()
+					OR
+=>Syntax:      strdata=clientsocketobj.recv(1024 OR 2048 OR 4098.....).decode()
+=>This function is used for receving the Data from Client Side Program at Server side Program and  we can also at Client side program for Receving Server side Program response.
+---------------------------------------------------------------
+6. send() with encode()
+---------------------------------------------------------------
+Syntax:   clientsocketobject.send( str(non-strdata).encode() )
+=>This function is used for Sending the Request to Server Side Program from Client Side Program and we can also use at Server Side Program for sending Response to Client side Program.
+---------------------------------------------------------------
+7. connect()
+---------------------------------------------------------------
+=>Syntax:   socketobj.connect(("DNS/IPAdress",portno))
+=>This function is used for Obtaining the Connection from Server Side Program by Client Side Program.
+-------------
+Examples:
+---------------------
+		s=socket.socket()
+		s.connect(("localhost",8888)
+---------------------------------------------------------------------------------------------------------------------------------------------

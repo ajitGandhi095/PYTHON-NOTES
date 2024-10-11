@@ -1,0 +1,28 @@
+			=====================================================
+					Developing Networking Applications
+			=====================================================
+=>In Network Programing, we deveop, Two Types of Programs. They are
+
+		1. Development of Server Side Applications
+		2. Development of Client Side Applications
+================================================================
+Steps for Developing Server Side Applications
+================================================================
+Step-1: import socket module and other modules if required
+Step-2: Create an object of socket at server side Program and It is called server socket
+Step-3: Every Server Socket must BIND with Certain DNS/IPAddress and Port Number
+Step-4: Every Server Socket must be CONFIGURED in such a way that to how many clients Server Socket can 
+             communicate.
+Step-5: Every Server Socket must ACCEPT the Request of Client Socket
+Step-6: Every Server Socket must READ the Client Socket Data, PROCESS and gives RESPONSE to client socket.
+Step-7: Every Server Socket  repeats Step-5 and Step-6 until Client socket stops sending requests.
+================================================================
+Steps for Developing Client Side Applications
+================================================================
+Step-1: import socket module and other modules if required
+Step-2: Create an object of socket at client side Program and It is called client socket.
+Step-3: Every client socket must get a CONNECTION from Server socket by passing (DNS/IP Address) and portno.
+Step-4: Every client socket must SEND a Request to Server Socket.
+Step-5: Every client socket Must recevive the RESPONSE from Server Socket.
+Step-6: Every client socket must Repeat Step-4 , Step-5 until all requests Completed.
+================================================================

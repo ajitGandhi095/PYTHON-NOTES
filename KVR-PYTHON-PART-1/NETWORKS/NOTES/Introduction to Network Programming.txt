@@ -1,0 +1,43 @@
+	============================================================================
+					Network Programming
+						OR
+					Socket Programming
+	============================================================================
+=>The purpose of Network Programming is that "To share the data OR information between multiple devices which are located either in Same Network or in Different Network across universe".
+--------------------------------------
+=>Definition of Network
+--------------------------------------
+=>Collection of Inter-connected autonomous Computers connected with Server for Sharing the Data between Multiple devices  which are located either in Same Network or in Different Network across universe.
+-------------------------------------------------
+=>To Develop any Netwoking Application, we  develop Two types of Programs. They are
+
+			1. Server Side Application.
+			2. Client Side Application.
+---------------------------------------------
+1. Server Side Application.
+---------------------------------------------
+=>A Server Side Application is one which is always recevies the Request from Client Side Program, Process the Request and Gives response  back to the Client Side Program.
+---------------------------------------------
+2. Client Side Application.
+---------------------------------------------
+=>A Client Side Application is one, which is always Send Request to server Side Program and obtains response from  
+   Server side Program.
+----------------------------------------------------------------
+Definition of DNS (Domain Naming Service)
+----------------------------------------------------------------
+=>The DNS is the Name of the Physical machine, where server side program Sides
+=>The default DNS of every computer is localhost.
+--------------------------------------------------------------------------
+Definition of IP Address(Internet Protocol Address)
+--------------------------------------------------------------------------
+=>The IP Address is one of the Numerical Address of Physical machine, where server side program Sides.
+=>The Default IP Address of Physical machine is 127.0.0.1(loop back address).
+---------------------------------------------
+Definition of Port Number
+---------------------------------------------
+=>A Port Number is one of the Logical Numerical ID where server side program is running.
+---------------------------------------------
+=>Hence Every server side program must binds with certain (DNS/IP Address and portno).
+=>Hence Every client side program must specify  (DNS/IP Address and portno) for communicating with server side 
+    program.
+===========================================x============================================

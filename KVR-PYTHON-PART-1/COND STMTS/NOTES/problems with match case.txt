@@ -1,0 +1,118 @@
+				================================================
+						match case statement
+				================================================
+=>match case statement is one of the New Features added from Python 3.10 Version Onwards.
+=>The purpose of match case statement is that "To Implement Menu Driven Applications OR Pre-Designed Conditions".
+
+-------------------------
+Examples
+-------------------------
+
+				==================================================
+					Arithmetic Operations
+				==================================================
+					1. Addition
+					2. Substraction
+					3. Multiplication
+					4. Division
+					5. Mod Div
+					6. Exponentiation
+					7. Exit
+				=================================================
+				Enter Ur Choice:
+				=================================================
+		ch=int(input("Enter UR Choice:"))
+		match (ch):
+		     
+		     case 1:
+				# Add Code
+		     case 2:
+				# Substraction Code
+		     case 3:
+				# Mul Code
+		     case 4:
+				# Div Code
+		     case 5:
+				# mod div Code
+		    case 6:
+				# Exp Code
+		    case 7:
+		             # exit code
+		   case _ :   # deafult case block
+		         print("Ur Selection of Operation is wrong--try again")
+		------------------------------------------
+		Other Statements in Program
+		------------------------------------------
+
+			======================================================
+				Areas of Different Figures
+			======================================================
+				R. Reactangle
+				T. Triangle
+				S. Square
+				C. Circle
+				E. Exit
+			======================================================
+			Enter Ur Choice:
+			======================================================
+			ch=input("Enter Ur Choice:")
+			match(ch):
+				case "R" | 'r'
+					# rect code
+				case "T" | 't':
+					# Triangle code
+				case "S" | "s":
+					# Square Code
+				case "C" | 'c':
+					# Circle Code
+				case 'E' | 'e':
+					# Exit Code
+				case _ :   # deafult case block
+					print("Ur Selection of Operation is wrong--try again")
+			------------------------------------------------
+			------------------------------------------------
+			Other stmts in Program
+			-----------------------------------------------
+			-----------------------------------------------
+
+
+
+
+
+			========================================================
+				Temperatur Conversions Calculator
+			========================================================
+				1. F to C
+				2. F to K
+				3. C to F
+				4. C to K
+				5. K to F
+				6. K to C
+				7. Exit
+			=======================================================
+			Enter UR Choice:
+			=======================================================
+
+
+			=======================================================
+			Base Conversion Calculator
+			=======================================================
+					1. D to B
+					2. D to O
+					3. D to H
+					------------
+					4. B to D
+					5. B to O
+					6. B to H
+					-------------
+					7. O to D
+					8. O to B
+					9. O to H
+					------------
+					10. H to D
+					11. H to B
+					12. H to O
+			====================================================
+			Enter Ur Choice:
+		====================================================
+		

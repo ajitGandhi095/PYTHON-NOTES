@@ -1,0 +1,32 @@
+				========================================================
+							String Handling  Part-1
+				========================================================
+=>On the object of str, we can Perform Both Indexing and Slicing Operations.
+=>With Indexing and Slicing Operation we can get Single Value and Range of Values Respectvely.
+=>We know that str object is Immutable and we can't update the values of str object.
+=>Along with Indexing and Slicng Operations, we are performing Different Operations on str data by using pre-defined functions which are present in str object. They are
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+1. capitalize()
+2. title()
+3. count()
+4. swapcase()
+5. upper()
+6. lower()
+7. isupper()
+8. islower()
+9. isdigit()
+10.isalpha()
+11.isalnum()
+------------------
+12. index()
+13. lstrip()
+14.rstrip()
+15.strip()
+--------------------
+16. split()
+17. split(delimter)
+-------------------------------
+18.startswith()
+19.endswith()
+10.join()
+-------------------------------

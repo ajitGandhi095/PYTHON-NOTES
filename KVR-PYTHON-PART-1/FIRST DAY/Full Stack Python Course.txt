@@ -1,0 +1,55 @@
+			==============================================================
+				Course:  Full Stack Python-----Job Oriented Course
+				          5 Parts
+			==============================================================
+---------------
+Module-1: Python Programming (BackBone)
+---------------
+		a) Core Python--- Modules
+		b) Advanced python---Modules
+		c) Python for Data Science
+				i) Numpy
+				ii) Pandas
+				iii) matplotlib
+---------------------------------------------------------------------------------------------------------
+Module-2: UI Technologies
+---------------------------------------------------------------------------------------------------------
+	a) HTML
+	b) Java Script
+	c) CSS
+	d) Bootstrap
+	e) Angular / React JS
+---------------------------------------------------------------------------------------------------------
+Module-3:  Web Frameworks
+---------------------------------------------------------------------------------------------------------
+	a) Django
+	b) Flask
+	c) Rest API
+---------------------------------------------------------------------------------------------------------
+Module-4:  Database Software
+---------------------------------------------------------------------------------------------------------
+	a) MySQL
+	b) Mongo DB
+---------------------------------------------------------------------------------------------------------
+Module-5:  Tools
+---------------------------------------------------------------------------------------------------------
+	a) Git
+	b) GitHub
+	c) Test methodolgies 
+	d) Basics of AWS,Google Cloud Platform...etc
+	d) Resume Building
+
+NOTE: Capstone Projects
+---------------------------------------------------------------------------------------------------------
+		Pre-requsites--- Full Stack Python
+
+U Must Graduate:  B.Tech(Any Branch), MCA, M.Tech, B.Sc, B.Com,MBA,BCA,BA...etc
+Ur Knowledge  Must Know : U need NOT to know any C,C++, Java, C#.net these Languages--
+Faculty--KVRao------I give a Gurantee that u will become expert in WRITING CODING Provided
+
+Expert in Subject				
+				a) All Students Must attend all the classes PUNTUALLY
+				b) All Students Must Practice the Use Cases / problems / Programs
+				c) All Students Must Read the Notes Daily / Notes
+				d) U Must interact / respond in the class.
+=============================================================================
